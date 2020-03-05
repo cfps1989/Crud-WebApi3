@@ -1,0 +1,12 @@
+C:\Users\Carlos Frederico\source\repos\Aula16\Projeto.BLL\bin\Debug\Projeto.BLL.dll
+C:\Users\Carlos Frederico\source\repos\Aula16\Projeto.BLL\bin\Debug\Projeto.BLL.pdb
+C:\Users\Carlos Frederico\source\repos\Aula16\Projeto.BLL\bin\Debug\Projeto.Entities.dll
+C:\Users\Carlos Frederico\source\repos\Aula16\Projeto.BLL\bin\Debug\ProjetoDAL.dll
+C:\Users\Carlos Frederico\source\repos\Aula16\Projeto.BLL\bin\Debug\Dapper.dll
+C:\Users\Carlos Frederico\source\repos\Aula16\Projeto.BLL\bin\Debug\Projeto.Entities.pdb
+C:\Users\Carlos Frederico\source\repos\Aula16\Projeto.BLL\bin\Debug\ProjetoDAL.pdb
+C:\Users\Carlos Frederico\source\repos\Aula16\Projeto.BLL\bin\Debug\Dapper.xml
+C:\Users\Carlos Frederico\source\repos\Aula16\Projeto.BLL\obj\Debug\Projeto.BLL.csprojAssemblyReference.cache
+C:\Users\Carlos Frederico\source\repos\Aula16\Projeto.BLL\obj\Debug\Projeto.BLL.csproj.CopyComplete
+C:\Users\Carlos Frederico\source\repos\Aula16\Projeto.BLL\obj\Debug\Projeto.BLL.dll
+C:\Users\Carlos Frederico\source\repos\Aula16\Projeto.BLL\obj\Debug\Projeto.BLL.pdb

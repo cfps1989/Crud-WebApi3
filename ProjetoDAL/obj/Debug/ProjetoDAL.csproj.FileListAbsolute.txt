@@ -1,0 +1,10 @@
+C:\Users\Carlos Frederico\source\repos\Aula16\ProjetoDAL\bin\Debug\ProjetoDAL.dll
+C:\Users\Carlos Frederico\source\repos\Aula16\ProjetoDAL\bin\Debug\ProjetoDAL.pdb
+C:\Users\Carlos Frederico\source\repos\Aula16\ProjetoDAL\bin\Debug\Dapper.dll
+C:\Users\Carlos Frederico\source\repos\Aula16\ProjetoDAL\bin\Debug\Projeto.Entities.dll
+C:\Users\Carlos Frederico\source\repos\Aula16\ProjetoDAL\bin\Debug\Projeto.Entities.pdb
+C:\Users\Carlos Frederico\source\repos\Aula16\ProjetoDAL\bin\Debug\Dapper.xml
+C:\Users\Carlos Frederico\source\repos\Aula16\ProjetoDAL\obj\Debug\ProjetoDAL.csprojAssemblyReference.cache
+C:\Users\Carlos Frederico\source\repos\Aula16\ProjetoDAL\obj\Debug\ProjetoDAL.csproj.CopyComplete
+C:\Users\Carlos Frederico\source\repos\Aula16\ProjetoDAL\obj\Debug\ProjetoDAL.dll
+C:\Users\Carlos Frederico\source\repos\Aula16\ProjetoDAL\obj\Debug\ProjetoDAL.pdb
